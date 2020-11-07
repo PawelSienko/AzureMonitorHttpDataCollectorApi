@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sienk\\OneDrive\\Pulpit\\MonitorHttpCollectorApi\\AzMonitorHttpCollectorApi\\AzMonitorHttpCollectorApi.csproj": {}
+    "C:\\Users\\sienk\\OneDrive\\Pulpit\\AzMonitorHttpCollectorApi\\AzMonitorHttpCollectorApi\\AzMonitorHttpCollectorApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sienk\\OneDrive\\Pulpit\\MonitorHttpCollectorApi\\AzMonitorHttpCollectorApi\\AzMonitorHttpCollectorApi.csproj": {
+    "C:\\Users\\sienk\\OneDrive\\Pulpit\\AzMonitorHttpCollectorApi\\AzMonitorHttpCollectorApi\\AzMonitorHttpCollectorApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sienk\\OneDrive\\Pulpit\\MonitorHttpCollectorApi\\AzMonitorHttpCollectorApi\\AzMonitorHttpCollectorApi.csproj",
+        "projectUniqueName": "C:\\Users\\sienk\\OneDrive\\Pulpit\\AzMonitorHttpCollectorApi\\AzMonitorHttpCollectorApi\\AzMonitorHttpCollectorApi.csproj",
         "projectName": "AzMonitorHttpCollectorApi",
-        "projectPath": "C:\\Users\\sienk\\OneDrive\\Pulpit\\MonitorHttpCollectorApi\\AzMonitorHttpCollectorApi\\AzMonitorHttpCollectorApi.csproj",
+        "projectPath": "C:\\Users\\sienk\\OneDrive\\Pulpit\\AzMonitorHttpCollectorApi\\AzMonitorHttpCollectorApi\\AzMonitorHttpCollectorApi.csproj",
         "packagesPath": "C:\\Users\\sienk\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sienk\\OneDrive\\Pulpit\\MonitorHttpCollectorApi\\AzMonitorHttpCollectorApi\\obj\\",
+        "outputPath": "C:\\Users\\sienk\\OneDrive\\Pulpit\\AzMonitorHttpCollectorApi\\AzMonitorHttpCollectorApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sienk\\AppData\\Roaming\\NuGet\\NuGet.Config",

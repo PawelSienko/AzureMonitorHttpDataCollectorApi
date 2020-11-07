@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+C2Y1hKrlp408Umu3SV9t7UHrjI4xR7j2Iz98yRQHPtnSK+vK/77JlboHOtlJot++6rkHlQjIH4c/5j1561UuA==",
+  "dgSpecHash": "CYApOaFcLrdQhkUj7ssciKoy20yvKZ/Ds7rCT1myBE9y54E00sZFUenleIjmOV/FfM9XyLa0kVKWPxgoqRgUTw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\sienk\\OneDrive\\Pulpit\\MonitorHttpCollectorApi\\AzMonitorHttpCollectorApi\\AzMonitorHttpCollectorApi.csproj",
+  "projectFilePath": "C:\\Users\\sienk\\OneDrive\\Pulpit\\AzMonitorHttpCollectorApi\\AzMonitorHttpCollectorApi\\AzMonitorHttpCollectorApi.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
